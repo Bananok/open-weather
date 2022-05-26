@@ -32,6 +32,9 @@ const InputInsert = styled.input`
   padding-right: 40px;
   padding-left: 23px;
   border-radius: 6px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 20px;
+  font-weight: 600;
   border: none;
   ::placeholder {
     font-style: normal;
